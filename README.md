@@ -1,0 +1,2 @@
+# Research_of_mobile_game_Quize_Freeze
+training Python project
